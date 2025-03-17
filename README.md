@@ -1,3 +1,3 @@
 # Juego del ahorcado
 
-Realizamos un juego del ahorcado
+Realice un juego del ahorcado
